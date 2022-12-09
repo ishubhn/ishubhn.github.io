@@ -6,12 +6,12 @@ Personal Website/Portfolio
 1. [Terminal Mode](http://ishubhn.github.io/)
 2. [UI based website](https://ishubhn.github.io/uisite/)
 
-
+<!-- 
 <img src="https://raw.githubusercontent.com/ishubhn/ishubhn.github.io/master/uisite/images/uiBasedWebsite.png" height="100%" width="100%">
 
 ----
 
-<img src="https://raw.githubusercontent.com/ishubhn/ishubhn.github.io/master/uisite/images/terminalWebsite.png" height="100%" width="100%">
+<img src="https://raw.githubusercontent.com/ishubhn/ishubhn.github.io/master/uisite/images/terminalWebsite.png" height="100%" width="100%"> -->
 
 ## License
  
